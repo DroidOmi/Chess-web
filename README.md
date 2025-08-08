@@ -1,4 +1,4 @@
-A web Based CHESS ♟️ game built for on ghe go playing. 
+A web Based CHESS ♟️ game built using HTML ONLY for on-the-go playing.ANYWHERE--ANYTIME 
 click on this link to play the game 
 https://droidomi.github.io/Chess-web/
 * The gane starts with ghe Hard AI mode and fhe AI takes time to think, so i would suggest choosing easy AI or Human vs Human for better game play.
